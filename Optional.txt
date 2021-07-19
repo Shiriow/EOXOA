@@ -1,5 +1,0 @@
-Str    Vit    Agi    Luc    Int    Wis
-1.2    1.3    1.1    1.2    1.2    1.3
-
-
-Removed Bucc and Alc level gates
