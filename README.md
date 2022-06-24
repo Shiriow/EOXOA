@@ -11,6 +11,40 @@ TildeHat's Class Addition Mod: https://github.com/Tildehat/EON-Class-Addition-Mo
 
 ---
 
+# **Installation:**
+
+If you’re continuing from a vanilla playthrough then rest your party members
+
+**Luma:**
+
+Drag and drop into the “luma/titles/00040000001D4E00” folder in your SD card and rename your version’s .ips to code.ips
+(00040000001D5200 for EU)
+
+**For Citra:**
+
+1: Download Citra Nightly/Canary https://github.com/citra-emu/citra-nightly/releases
+2: Right click EOX -> Open Mods Folder
+3: Place the romfs folder and rename your version’s .ips to code.ips
+
+
+**Uninstall:**
+
+Remove the added folders and files, don't forget to rest your party members
+
+---
+
+You can contact me on Discord: Shiri#7034, or find me in the [r/EtrianOdyssey Discord Server](https://discord.com/invite/8jsCx6F)
+
+
+All Overhauled classes have their level gates removed
+
+
+**Bugs:**
+
+Getting Shadowstrike and Sylphid to activate with the same character will crash the game.
+
+---
+
 Includes some Optional files which adds a multiplier to enemy stats, and others that removes Buccaneer and Alchemist level gates (just dont forget these classes are designed around having them)
 
 
