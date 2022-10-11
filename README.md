@@ -17,13 +17,16 @@ If you’re continuing from a vanilla playthrough then rest your party members
 
 **Luma:**
 
-Drag and drop into the “luma/titles/00040000001D4E00” folder in your SD card and rename your version’s .ips to code.ips
-(00040000001D5200 for EU)
+Drag and drop into the “luma/titles/00040000001D4E00” folder (or create them if they dont exist) in your SD card and rename codeNA.ips to code.ips 
+
+(luma/titles/00040000001D5200 folder, and codeEU.ips to code.ips for EU region)
 
 **For Citra:**
 
 1: Download Citra Nightly/Canary https://github.com/citra-emu/citra-nightly/releases
+
 2: Right click EOX -> Open Mods Folder
+
 3: Place the romfs folder and rename your version’s .ips to code.ips
 
 
