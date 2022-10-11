@@ -17,9 +17,11 @@ If you’re continuing from a vanilla playthrough then rest your party members
 
 **Luma:**
 
-Drag and drop into the “luma/titles/00040000001D4E00” folder (or create them if they dont exist) in your SD card and rename codeNA.ips to code.ips 
+Drag and drop the .ips and romfs folder into the “luma/titles/00040000001D4E00” folder (or create them if they dont exist) and rename codeNA.ips to code.ips 
 
-(luma/titles/00040000001D5200 folder, and codeEU.ips to code.ips for EU region)
+(EU : luma/titles/00040000001D5200 folder, and codeEU.ips to code.ips)
+
+Also make sure game patching is enabled in the Luma Menu
 
 **For Citra:**
 
