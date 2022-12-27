@@ -9,7 +9,7 @@ Skillsim: https://shiriow.github.io/overhaul/eox/
 
 TildeHat's Class Addition Mod: https://github.com/Tildehat/EON-Class-Addition-Mod
 
-Note: Some descriptions, mainly accuracy and evasion, use ‰ instead of % since that's how the game reads those values. Basically 100‰ = 10.0%
+Note: Some descriptions, mainly accuracy and evasion, use ‰ instead of % as that's how the game reads those values. Basically 100‰ = 10.0%
 
 ---
 
