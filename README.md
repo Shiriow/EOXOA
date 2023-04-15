@@ -5,7 +5,7 @@
 
 SkillSim: https://shiriow.github.io/overhaul/eox/
 
-Full Changelog: https://github.com/Shiriow/EOXOA/wiki
+Changelog for non-Overhauled classes: https://github.com/Shiriow/EOXOA/wiki
 
 TildeHat's Class Addition Mod: https://github.com/Tildehat/EON-Class-Addition-Mod
 
