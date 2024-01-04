@@ -40,7 +40,7 @@ Remove the added folders and files, don't forget to rest your party members
 
 ---
 
-You can contact me on Discord: Shiri#7034, or find me in the [r/EtrianOdyssey Discord Server](https://discord.com/invite/8jsCx6F)
+You can contact me on Discord: shirielmyre, or find me in the [r/EtrianOdyssey Discord Server](https://discord.com/invite/8jsCx6F)
 
 
 All Overhauled classes have their level gates removed
