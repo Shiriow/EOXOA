@@ -64,8 +64,12 @@ Overwrite enemydata.tbl in romfs/Monster/Table/
 
 **enemydata xvarious.tbl:** x1.2    Str  Luc  Int     ; x1.3    Vit  Wis  ; x1.1    Agi       
 
-**enemydata progress.tbl:** 
+**enemydata Progress - Boss 1.25x Static.tbl:** 
 
 Randoms's modifier for the 6 stats and MaxHP increases as you get to new stratums: starts at 1.05x for S1, 1.07x S2, x1.1 S3, etc. Caps at 1.25x on S9 with AGI capping at x1.1 at S3; 
 
 FOEs are x1.25 STAT+HP, x1.1 AGI from the start; Bosses are similar but with no HP multiplier    
+
+**enemydata Progress - Boss 1.25x Cap.tbl & enemydata Progress - Boss 1.13x Cap.tbl:** 
+
+Like the above, but boss's stats also increase per stratum
